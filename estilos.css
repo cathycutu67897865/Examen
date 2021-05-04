@@ -1,0 +1,35 @@
+body{
+	background-color: yellow;
+	font-family: "Arial";
+	color: black;
+}
+
+header,footer{
+	background: pink;
+	font-family: Arial
+	font-size: x-large;
+	color: blue;
+	border-style: solid;
+	border-width: 9px;
+	border-color: lavender;
+	text-align: center;
+}
+
+div{
+height: 1800px;
+text-align: center;
+font-family: Arial
+font-size: large;
+color: blue;
+}
+
+body{
+	background-color: yellow;
+}
+
+img{
+	transition: all 0.8s;
+}
+img:hover{
+	transform: scale(1.0);
+}
